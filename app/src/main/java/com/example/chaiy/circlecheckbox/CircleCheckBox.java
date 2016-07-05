@@ -21,7 +21,7 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 public class CircleCheckBox extends View {
 
     private static final String TAG = CircleCheckBox.class.getSimpleName();
-    public static final int INNER_CIRCLE_ANIM_DURATION = 1000;
+    public static final int INNER_CIRCLE_ANIM_DURATION = 700;
 
     int borderColor = Color.GRAY;
     int circleColor = Color.RED;
